@@ -1,4 +1,4 @@
 # Random-Projects
-Practacing Coding mostly
+Practacing Coding/learning new langs mostly
 
 Mainly a place to dump quick projects ive made.
